@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- CORE PAGES -->
+  <url><loc>https://ranlock.com/</loc><lastmod>2025-01-01</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ranlock.com/services</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ranlock.com/about-us</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ranlock.com/contact-us</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- ROOFING SERVICE PAGES -->
+  <url><loc>https://ranlock.com/roof-replacement</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://ranlock.com/shingle-roofing</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ranlock.com/flat-roofing</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ranlock.com/storm-damage</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+
+  <!-- OC WIDGET / TOOL PAGES -->
+  <url><loc>https://ranlock.com/roof-visualizer</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ranlock.com/instant-estimator</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ranlock.com/build-your-roof</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ranlock.com/roofing-warranties</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- LOCATION PAGES -->
+  <url><loc>https://ranlock.com/locations/ranlock-houston</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-webster</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-league-city</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-pearland</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-pasadena</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-baytown</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-sugar-land</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-clear-lake</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-cypress</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-spring</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-tomball</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-the-woodlands</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-texas-city</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-friendswood</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://ranlock.com/locations/ranlock-deer-park</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+</urlset>
