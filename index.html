@@ -1375,8 +1375,8 @@ document.querySelector('form').addEventListener('submit',function(e){
 .booking-overlay.open{opacity:1;pointer-events:all}
 
 /* MODAL PANEL */
-.booking-modal{position:fixed;bottom:0;left:0;right:0;z-index:99999;background:var(--dark2);border-top:3px solid var(--gold);border-radius:20px 20px 0 0;padding:0;transform:translateY(100%);transition:transform .38s cubic-bezier(.32,.72,0,1);max-height:95vh;overflow-y:auto;box-shadow:0 -20px 60px rgba(0,0,0,0.6)}
-.booking-modal.open{transform:translateY(0)}
+.booking-modal{position:fixed;bottom:0;left:0;right:0;z-index:99999;background:var(--dark2);border-top:3px solid var(--gold);border-radius:20px 20px 0 0;padding:0;transform:translateY(100%);transition:transform .38s cubic-bezier(.32,.72,0,1),opacity .38s ease,visibility .38s ease;max-height:95vh;overflow-y:auto;box-shadow:0 -20px 60px rgba(0,0,0,0.6);opacity:0;pointer-events:none;visibility:hidden}
+.booking-modal.open{transform:translateY(0);opacity:1;pointer-events:all;visibility:visible}
 @media(min-width:700px){
   .booking-modal{inset:auto;top:50%;left:50%;right:auto;bottom:auto;transform:translate(-50%,-44%) scale(0.96);border-radius:16px;border:2px solid rgba(212,160,23,0.3);width:min(660px,94vw);max-height:92vh;border-top:3px solid var(--gold)}
   .booking-modal.open{transform:translate(-50%,-50%) scale(1)}
